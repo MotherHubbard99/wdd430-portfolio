@@ -3,10 +3,10 @@ import ProjectList from "@/components/ProjectList";
 
 const projects = [
   {
-    title: "Project 1",
-    description: "WDD 330 Sleep Outside Project",
-    technologies: ["Node.js", "Vite", "JavaScript", "HTML", "CSS"],
-    link: "https://github.com/MotherHubbard99/wdd330-sleepoutside"
+    title: "Worldwide Currency Converter",
+    description: "Converts currency from one country to another using an API",
+    technologies: ["Render", "JavaScript", "Node.js", "HTML5", "CSS3", "API"],
+    link: "https://worldwide-currency-converter.onrender.com/"
   },
   {
     title: "Project 2",
