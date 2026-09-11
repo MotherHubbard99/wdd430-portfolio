@@ -9,6 +9,13 @@ export default function Header() {
         <ul className="flex gap-6">
           <li><Link href="/">Home</Link></li>  
           <li><Link href="/about">About</Link></li>
+            <li><Link href="/projects">Projects</Link></li>
+          <li><Link href="/contact">Contact</Link></li>
+        </ul>
+      </nav>
+      <nav className="max-w-4xl mx-auto px-4 flex justify-between items-center">
+        <ul className="flex gap-6">
+          <li><a href="https://github.com/MotherHubbard99" target="_blank" rel="noopener noreferrer">GitHub</a></li>
         </ul>
       </nav>
     </header>
